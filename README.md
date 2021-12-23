@@ -1,6 +1,6 @@
 ## Nice to see you 👋🏽, my name is Quentin 👨🏽‍💻
 ### I am a Senior Identity & Access Management Engineer
-My goal is to help companies level up their automation % security. This platform is where I share my personal projects that can be helpful for IT engineers in the field.
+My goal is to help companies level up their automation & security. This platform is where I share my personal projects that can be helpful for IT engineers in the field.
 
 - 🔭 I’m currently working on several Okta projects.  
 - 🌱 I’m currently learning infrastructure-as-code.  
