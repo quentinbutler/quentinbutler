@@ -11,7 +11,7 @@ My goal is helping companies level up their automation & security. This platform
 
 ##### Software
 
-Okta / Jamf / Google Workspace / Slack / Meraki / Azure AD
+Okta / Jamf / Microsoft Endpoint Manager /Google Workspace / Slack / Meraki
 
 ##### Languages
 
