@@ -1,5 +1,5 @@
-### Nice to see you 👋🏽, my name is Quentin
-#### I am a Senior Identity Access Management Engineer
+## Nice to see you 👋🏽, my name is Quentin
+### I am a Senior Identity Access Management Engineer
 My goal is helping companies level up their automation & security. This platform is where share my personal projects that can be helpful for IT engineers in the field.
 
 - 🔭 I’m currently working on several Okta projects.  
@@ -7,13 +7,13 @@ My goal is helping companies level up their automation & security. This platform
 - 📫 How to reach me: hello@quentinbutler.com 
 
 
-#### Skills
+### Skills
 
-##### Software
+#### Software
 
 Okta / Jamf / Microsoft Endpoint Manager / Google Workspace / Slack / Meraki
 
-##### Languages
+#### Languages
 
 Bash / Python 
 
