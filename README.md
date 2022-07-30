@@ -11,11 +11,11 @@ My goal is to help companies level up their automation & security. This platform
 
 #### Software
 
-Okta / Jamf / Google Workspace / Slack / Meraki / + More
+Okta / Jamf / Google Workspace / Slack / Meraki 
 
 #### Languages
 
-Bash / Python 
+A sprinkle of bash and python
 
 
 <!---
